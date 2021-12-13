@@ -1,0 +1,8 @@
+casino-dapp/truffle/build
+*/build
+node_modules
+.env
+.vscode
+.ds_store
+.DS_Store
+
